@@ -7,15 +7,12 @@ public class HelloWorld {
         // Creates a reader instance which takes
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
-        System.out.print("Enter a number A: ");
-	Scanner reader = new Scanner(System.in);
-	System.out.print(Enter a number B: ");
+        System.out.print("Enter a number: ");
         // nextInt() reads the next integer from the keyboard
         int numberA = reader.nextInt();
-int numberB = reader.nextInt();
+        int numberB = reader.nextInt();
         // println() prints the following line to the output screen
         System.out.println("You entered A: " + number);
-	System.out.println("you entered B: " - number);
     }
 }
 
