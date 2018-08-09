@@ -1,5 +1,8 @@
-import java.util.Scanner;
-
+import java.util.Scanner
+public class Deposite class
+{
+system.out.println("welcome to deposite group");
+}
 public class HelloWorld {
 
     public static void main(String[] args) {
